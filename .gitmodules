@@ -1,3 +1,12 @@
 [submodule "geoserver"]
 	path = docker/geoserver
 	url = git@github.com:alexlipovka/docker-geoserver.git
+[submodule "nproxy"]
+	path = docker/nproxy
+	url = git@github.com:alexlipovka/docker-nproxy.git
+[submodule "postgis"]
+	path = docker/postgis
+	url = git@github.com:alexlipovka/docker-postgis.git
+[submodule "pgadmin"]
+	path = docker/pgadmin
+	url = git@github.com:alexlipovka/docker-pgadmin.git
