@@ -31,11 +31,3 @@ git clone git@github.com:alexlipovka/glimmering_city.git
 git submodule init
 git submodule update
 ```
-
-Кроме того, можно клонировать обычным образом и потом открывать проект в VS Code, чтобы видеть все содержимое без скачивания:
-
-```shell
-git clone git@github.com:alexlipovka/glimmering_city.git
-cd glimmering_city
-code .
-```
