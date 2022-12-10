@@ -1,0 +1,3 @@
+[submodule "geoserver"]
+    path = docker/geoserver
+    url = git@github.com:alexlipovka/docker-geoserver.git
