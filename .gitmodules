@@ -10,3 +10,6 @@
 [submodule "pgadmin"]
 	path = docker/pgadmin
 	url = git@github.com:alexlipovka/docker-pgadmin.git
+[submodule "www"]
+	path = docker/sites/www
+	url = git@github.com:alexlipovka/docker-www.git
