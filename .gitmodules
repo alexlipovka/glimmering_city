@@ -1,15 +1,15 @@
 [submodule "geoserver"]
 	path = docker/geoserver
-	url = git@github.com:alexlipovka/docker-geoserver.git
+	url = https://github.com/alexlipovka/docker-geoserver.git
 [submodule "nproxy"]
 	path = docker/nproxy
-	url = git@github.com:alexlipovka/docker-nproxy.git
+	url = https://github.com/alexlipovka/docker-nproxy.git
 [submodule "postgis"]
 	path = docker/postgis
-	url = git@github.com:alexlipovka/docker-postgis.git
+	url = https://github.com/alexlipovka/docker-postgis.git
 [submodule "pgadmin"]
 	path = docker/pgadmin
-	url = git@github.com:alexlipovka/docker-pgadmin.git
+	url = https://github.com/alexlipovka/docker-pgadmin.git
 [submodule "www"]
 	path = docker/sites/www
-	url = git@github.com:alexlipovka/docker-www.git
+	url = https://github.com/alexlipovka/docker-www.git
